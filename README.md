@@ -1,5 +1,7 @@
 # StackExchange.Redis.Extensions
 
+[![Join the chat at https://gitter.im/EugeneKrapivin/StackExchange.Redis.Extensions](https://badges.gitter.im/EugeneKrapivin/StackExchange.Redis.Extensions.svg)](https://gitter.im/EugeneKrapivin/StackExchange.Redis.Extensions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 StackExchange.Redis.Extensions is a library that extends [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) allowing you a set of functionality needed by common applications.
 
 
